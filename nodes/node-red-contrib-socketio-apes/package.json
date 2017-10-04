@@ -1,0 +1,93 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "node-red-contrib-socketio@1.0.5",
+        "scope": null,
+        "escapedName": "node-red-contrib-socketio",
+        "name": "node-red-contrib-socketio",
+        "rawSpec": "1.0.5",
+        "spec": "1.0.5",
+        "type": "version"
+      },
+      "/home/andresciceri/.node-red"
+    ]
+  ],
+  "_from": "node-red-contrib-socketio@1.0.5",
+  "_id": "node-red-contrib-socketio@1.0.5",
+  "_inCache": true,
+  "_location": "/node-red-contrib-socketio",
+  "_nodeVersion": "6.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/node-red-contrib-socketio-1.0.5.tgz_1489610517737_0.07514309231191874"
+  },
+  "_npmUser": {
+    "name": "wperw",
+    "email": "wperwendetta@yahoo.it"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "node-red-contrib-socketio@1.0.5",
+    "scope": null,
+    "escapedName": "node-red-contrib-socketio",
+    "name": "node-red-contrib-socketio",
+    "rawSpec": "1.0.5",
+    "spec": "1.0.5",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/node-red-contrib-socketio/-/node-red-contrib-socketio-1.0.5.tgz",
+  "_shasum": "c8e1ccc737edf431ca664d58845ef49aba982ed9",
+  "_shrinkwrap": null,
+  "_spec": "node-red-contrib-socketio@1.0.5",
+  "_where": "/home/andresciceri/.node-red",
+  "author": {
+    "name": "Telemaco Gallimberti"
+  },
+  "bugs": {
+    "url": "https://github.com/wperw/node-red-contrib-socketio/issues"
+  },
+  "dependencies": {
+    "socket.io": ">=1.5.1"
+  },
+  "description": "Implementation for Node-RED of a SocketIO Sever",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "c8e1ccc737edf431ca664d58845ef49aba982ed9",
+    "tarball": "https://registry.npmjs.org/node-red-contrib-socketio/-/node-red-contrib-socketio-1.0.5.tgz"
+  },
+  "homepage": "https://github.com/wperw/node-red-contrib-socketio#readme",
+  "keywords": [
+    "node-red"
+  ],
+  "license": "MIT",
+  "main": "socketio.js",
+  "maintainers": [
+    {
+      "name": "wperw",
+      "email": "wperwendetta@yahoo.it"
+    }
+  ],
+  "name": "node-red-contrib-socketio-apes",
+  "node-red": {
+    "nodes": {
+      "socket-io-apes": "socketio.js"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wperw/node-red-contrib-socketio.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

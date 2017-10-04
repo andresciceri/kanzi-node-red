@@ -1,0 +1,16 @@
+{
+  "name": "node-red-contrib-azure-apes",
+  "version": "1.0.0",
+  "description": "azure nodes to conect with azure cloud",
+  "node-red" : {
+    "nodes": {
+    	"AzureBus": "bus/service-bus-azure.js"
+    }
+  },
+  "dependencies": {
+    "azure": "latest"
+  },
+  "scripts": {},
+  "author": "Hugo Andres Escobar Ciceri",
+  "license": "ISC"
+}

@@ -1,0 +1,46 @@
+{
+  "author": {
+    "name": "Dave Conway-Jones",
+    "email": "ceejay@vnet.ibm.com",
+    "url": "http://nodered.org"
+  },
+  "dependencies": {
+    "sqlite3": "3.1.*"
+  },
+  "description": "A sqlite node for Node-RED",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "a3d76daaae3298b8fb147575470750fd89333479",
+    "tarball": "https://registry.npmjs.org/node-red-node-sqlite/-/node-red-node-sqlite-0.1.2.tgz"
+  },
+  "keywords": [
+    "node-red",
+    "sqlite"
+  ],
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "dceejay",
+      "email": "ceejay@vnet.ibm.com"
+    },
+    {
+      "name": "knolleary",
+      "email": "nick.oleary@gmail.com"
+    }
+  ],
+  "name": "node-red-contrib-sqlite-apes",
+  "node-red": {
+    "nodes": {
+      "sqliteApes": "sqlite.js"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/node-red/node-red-nodes/storage/sqlite/"
+  },
+  "scripts": {},
+  "version": "1.0.0"
+}
