@@ -1,0 +1,70 @@
+{
+  "_from": "node-epc",
+  "_id": "node-epc@0.1.1",
+  "_inBundle": false,
+  "_integrity": "sha1-SHrmMmAWbf/BFr0nor+ldahoqAI=",
+  "_location": "/node-epc",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "node-epc",
+    "name": "node-epc",
+    "escapedName": "node-epc",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/node-epc/-/node-epc-0.1.1.tgz",
+  "_shasum": "487ae63260166dffc116bd27a2bfa575a868a802",
+  "_spec": "node-epc",
+  "_where": "/home/andresciceri/.node-red",
+  "author": {
+    "name": "Sean Arme"
+  },
+  "bugs": {
+    "url": "https://github.com/sarme/node-epc/issues"
+  },
+  "bundleDependencies": false,
+  "copyright": "Copyright © 2015 Sean Arme",
+  "dependencies": {
+    "big-integer": "^1.4.6",
+    "moment": "^2.10.3",
+    "npmlog-ts": "0.0.1",
+    "q": "^1.4.1",
+    "string": "^3.3.3"
+  },
+  "deprecated": false,
+  "description": "A library for Node.js to parse EPC encoded values from Gen2 RFID tags.",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "chai-as-promised": "^5.1.0",
+    "gulp": "^3.9.0",
+    "gulp-env": "^0.2.0",
+    "gulp-jshint": "^1.11.0",
+    "gulp-mocha": "^2.1.1",
+    "jshint": "^2.8.0",
+    "mocha": "^2.2.5"
+  },
+  "email": "nodeepc@gmail.com",
+  "homepage": "https://github.com/sarme/node-epc#readme",
+  "keywords": [
+    "rfid",
+    "epc"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "name": "node-epc",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarme/node-epc.git"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "version": "0.1.1"
+}
